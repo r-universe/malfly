@@ -5,3 +5,6 @@
 [submodule "AutoWMM"]
 	path = AutoWMM
 	url = https://github.com/malfly/autowmm
+[submodule "JAGStree"]
+	path = JAGStree
+	url = https://github.com/malfly/jagstree
